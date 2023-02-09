@@ -1,0 +1,7 @@
+{
+    "filePaths": {
+        "main": "cypress/fixtures/pdf/text-only.pdf",
+        "copy": "cypress/fixtures/pdf/text-only-copy.pdf",
+        "copyWithImage": "cypress/fixtures/pdf/same-text-with-image-in-the-middle.pdf"
+    }
+}
